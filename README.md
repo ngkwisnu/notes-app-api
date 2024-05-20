@@ -1,1 +1,2 @@
-AWS Backend Academy Project - Note API used Express.js
+# AWS Backend Academy
+Create a simple api for Note App used Express.js
